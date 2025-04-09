@@ -1,0 +1,32 @@
+body{
+    font-family: "sans-serif";
+    background-image:20px;
+
+}
+.background{
+    background-size: cover;
+}
+h2{
+    font-size: 50px;
+}
+h5{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+aside {
+    float: right;
+    width: 45%;
+}
+section {
+    float: left;
+    width: 45%;
+}
+nav {
+    float: left;
+    width: 20%;
+}
+.about{
+    justify-content: center;
+}
